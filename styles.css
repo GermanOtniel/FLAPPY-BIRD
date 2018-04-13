@@ -1,0 +1,23 @@
+.firstButton {
+  background-color: red;
+  width: 200px;
+  color: white;
+  height: 50px;
+  font-size: 25px;
+  margin-left: 85px;
+}
+
+.secondButton{
+  background-color: grey;
+  width: 200px;
+  color: white;
+  height: 50px;
+  font-size: 25px;
+  margin-left: 100px;
+}
+
+h1 {
+  color: #2c8199;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 11%;
+}
